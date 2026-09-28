@@ -1,0 +1,5 @@
+pandas
+vaderSentiment>=3.3.2
+deep-translator>=1.11
+scikit-learn
+matplotlib
